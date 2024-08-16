@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on telegram-bot
-- 🌱 I’m currently learning new tools that used Programming
 -  📫 How to reach me: @Abror_220201 (telegram username)
 
 <!--
